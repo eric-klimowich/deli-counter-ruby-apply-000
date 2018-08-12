@@ -12,3 +12,4 @@ def line(katz_deli)
   puts "The line is currently: #{temp_array.join(" ")}"
   end
 end
+
